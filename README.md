@@ -8,6 +8,7 @@ Build React Memes Memory Game | REACT HOOKS
 https://memes-memory.netlify.app
 
 # Preview
-![meme1](https://user-images.githubusercontent.com/86564838/131701722-a42e09df-d18a-4fd5-ab21-03979d371e8e.jpg)
+![preview-meme1](https://user-images.githubusercontent.com/86564838/131710849-491ecc2d-d18e-40e1-aa8d-5133452d8614.jpg)
 
-![meme2](https://user-images.githubusercontent.com/86564838/131701776-3a50dc58-e60b-4f06-a946-56d21ffdbfb9.jpg)
+![theme-preview-2](https://user-images.githubusercontent.com/86564838/131710890-8e1d8aeb-6648-4de9-a0df-a4a447def3a6.jpg)
+
