@@ -1,7 +1,7 @@
 body {
     background-image: linear-gradient(to right, #e49fff, #9962ff);
     padding: 50px 0;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .board {
     width: calc(100vh - 0px);
