@@ -5,7 +5,7 @@ Build React Memes Memory Game | REACT HOOKS
 
 
 # Live Demo
-https://memes-memory.netlify.app/
+https://memes-memory.netlify.app
 
 # Preview
 ![meme1](https://user-images.githubusercontent.com/86564838/131701722-a42e09df-d18a-4fd5-ab21-03979d371e8e.jpg)
