@@ -68,7 +68,7 @@ function App() {
         <p>Click: &nbsp;{count}</p>
         <p>Found pair: {foundPairs.length / 2} / {cards.length / 2}</p>
       </div>
-        {win && (
+        {!win && (
           <>
           <h2>you win , Congratulations !</h2>
           <div class="pyro"><div class="before"></div><div class="after"></div></div>
