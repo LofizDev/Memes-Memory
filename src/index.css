@@ -1,7 +1,6 @@
 body {
     background-image: linear-gradient(to right, #e49fff, #9962ff);
     padding: 50px 0;
-    /* overflow: hidden; */
 }
 .board {
     width: calc(100vh - 0px);
@@ -66,7 +65,7 @@ h2 {
     color: #fff;
     margin-top: -20px;
 }
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 530px) {
     .board {
         grid-template-columns: repeat(4, 1fr);
     }
