@@ -3,19 +3,19 @@ body {
     padding: 50px 0;
 }
 .board {
-    width: calc(100vh - 0px);
-    max-width: calc(100vw - 40px);
+    width: calc(100vh - 240px);
+    max-width: calc(100vw - 20px);
     display: grid;
     grid-gap: 10px;
     margin: auto;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(4, 1fr);
 }
 .cart-outer {
     perspective: 1000px;
     border-radius: 10px;
     overflow: hidden;
-    height: calc((100vh - 0px) / 6);
-    max-height: calc((100vw - 0px) / 5);
+    height: calc((100vh - 270px) / 4);
+    max-height: calc((100vw - 20px) / 4);
 }
 .card {
     position: relative;
@@ -54,7 +54,7 @@ body {
     display: flex;
     max-width: 300px;
     margin: 0 auto;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     justify-content: space-between;
     font-family: cursive;
 }
